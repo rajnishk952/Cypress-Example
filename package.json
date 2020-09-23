@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/ashwingonsalves/cypress-browserstack.git"
   },
-  "author": "Ashwin G",
+  "author": "Rajnish Kumar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ashwingonsalves/cypress-browserstack/issues"
